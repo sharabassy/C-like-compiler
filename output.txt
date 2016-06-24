@@ -1,0 +1,25 @@
+syntax error
+please enter valid stmt
+	push	1.000000
+	pop	y
+L000:
+	push	2
+	pop	x
+	push	2
+	push	3
+	mul
+	push	6
+	add
+	pop	x
+	push	x
+	push	0
+	compGT
+	jmp	L000
+L001:
+	push	2.200000
+	pop	y
+======================
+
+### Symbol Table ###
+INT x
+FLOAT y
