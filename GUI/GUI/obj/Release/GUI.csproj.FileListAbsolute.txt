@@ -1,0 +1,9 @@
+C:\Users\Eslam Hashem\Desktop\GUI\GUI\bin\Release\GUI.exe.config
+C:\Users\Eslam Hashem\Desktop\GUI\GUI\bin\Release\GUI.exe
+C:\Users\Eslam Hashem\Desktop\GUI\GUI\bin\Release\GUI.pdb
+C:\Users\Eslam Hashem\Desktop\GUI\GUI\obj\Release\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Eslam Hashem\Desktop\GUI\GUI\obj\Release\GUI.Form1.resources
+C:\Users\Eslam Hashem\Desktop\GUI\GUI\obj\Release\GUI.Properties.Resources.resources
+C:\Users\Eslam Hashem\Desktop\GUI\GUI\obj\Release\GUI.csproj.GenerateResource.Cache
+C:\Users\Eslam Hashem\Desktop\GUI\GUI\obj\Release\GUI.exe
+C:\Users\Eslam Hashem\Desktop\GUI\GUI\obj\Release\GUI.pdb
