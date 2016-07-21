@@ -4,7 +4,7 @@ this project was done for a compilers course at college.
 followed the tutorial "A COMPACT GUIDE TO LEX & YACC" by Tom Niemann.
 
 
-design and implement a simple programming language using the Lex and Yacc compiler generating package.
+design and implement a simple programming language using the Flex and Bison compiler generating package.
 
 The Project comprises the following:
 
